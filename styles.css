@@ -1,0 +1,46 @@
+.fa-twitter {
+  color: white;
+}
+
+#quote-box {
+  background-color: white;
+  border-radius: 20px;
+  padding: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 500px;
+  text-align: center;
+}
+
+#new-quote {
+  color: white;
+  position: absolute;
+  right: 20px;
+  bottom: 20px;
+  height: 40px;
+}
+
+#text {
+  font-family: "Cormorant Upright", serif;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+
+
+#author {
+  font-family: "Cormorant Upright", serif;
+  text-align: right;
+  padding: 0px 0px 40px 0px;
+  font-size: 24px;
+}
+
+#tweet-button {
+  position: absolute;
+  left: 20px;
+  bottom: 20px;
+  height: 40px;
+  width: 50px;
+}
